@@ -1,0 +1,14 @@
+PackageURL = http://localhost/kuma_i_demo/kuma_i_demo_1_repaired.jar
+AppSize = 931045
+AppMainTitle = 160.gif
+AppName = クマんちゅロワイアル。(無料体験版)
+AppVer = 1.0.0
+DrawArea = 240x240
+AppClass = Main
+SPsize = 1000
+UseBrowser = launch
+UseNetwork = http
+LastModified = Wed, 19 Sep 2012 17:50:19
+GetUtn = userid
+LaunchByBrowser = http://www.ponos.co.jp/
+AppIcon = 48.gif,96.gif
